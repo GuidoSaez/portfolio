@@ -158,6 +158,7 @@
 .acercaDeMi__texto {
     font-size: 1rem;
     letter-spacing: 1px;
+    line-height: 1.4rem;
 }
 
 .acercaDeMi__texto:nth-child(1) {
@@ -524,7 +525,7 @@
 
     .acercaDeMi__contenedor {
         width: 100%;
-        height: 150vh;
+        height: 190vh;
         flex-direction: column;
         padding-top: 1rem;
     }
@@ -559,7 +560,7 @@
         text-align: center;
         font-size: .9rem;
         letter-spacing: 1px;
-        line-height: 1.1;
+        line-height: 1.5;
     }
 
     .acercaDeMi__texto:nth-child(1) {
